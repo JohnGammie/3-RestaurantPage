@@ -1,4 +1,4 @@
-export function pageLoad() {
+export function homePage() {
     let divContent = document.querySelector("#content");
 
     let restaurantName = document.createElement("h1");
